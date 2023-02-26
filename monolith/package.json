@@ -20,6 +20,8 @@
   "engines": {
     "node": ">=14.0.0"
   },
-  "dependencies": {},
+  "dependencies": {
+    "reveal-md": "^2.4.1"
+  },
   "packageManager": "npm@8.19.3"
 }
